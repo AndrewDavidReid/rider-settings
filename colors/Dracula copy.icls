@@ -4,12 +4,12 @@
     <property name="created">2018-05-27T11:10:26</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-05-27T11:21:24</property>
+    <property name="modified">2018-05-27T11:38:24</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="CARET_COLOR" value="cccccc" />
     <option name="CARET_ROW_COLOR" value="44475a" />
