@@ -4,7 +4,7 @@
     <property name="created">2018-05-27T11:10:26</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.1.0.0</property>
-    <property name="modified">2018-05-27T11:38:24</property>
+    <property name="modified">2018-05-27T11:41:19</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -289,6 +289,9 @@
         <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
+    <option name="DEFAULT_LABEL">
+      <value />
+    </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="6272a4" />
@@ -313,6 +316,9 @@
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
+      <value />
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
       <value />
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -916,6 +922,9 @@
       <value>
         <option name="FOREGROUND" value="bd93f9" />
       </value>
+    </option>
+    <option name="ReSharper.DELEGATE_IDENTIFIER">
+      <value />
     </option>
     <option name="ReSharper.ENUM_IDENTIFIER">
       <value>
