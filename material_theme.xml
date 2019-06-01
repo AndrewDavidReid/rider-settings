@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="fileIcons" value="false" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="useMaterialIcons" value="false" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="111e380a:16b10b63af4:-8000" />
     <option name="version" value="3.5.0.1" />
