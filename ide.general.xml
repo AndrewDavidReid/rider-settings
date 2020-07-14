@@ -14,7 +14,6 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="show.diff.preview.as.editor.tab" value="true" />
-    <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="ide.borderless.title.debug" value="true" />
     <entry key="ide.title.debug" value="true" />
     <entry key="debugger.new.debug.tool.window.view" value="true" />
