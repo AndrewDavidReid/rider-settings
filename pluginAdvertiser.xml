@@ -538,7 +538,6 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -547,7 +546,6 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -565,7 +563,6 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -574,7 +571,6 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1055,6 +1051,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.localizationmanager">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.manifest">
           <value>
             <plugin>
@@ -1123,7 +1128,6 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1132,7 +1136,6 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
